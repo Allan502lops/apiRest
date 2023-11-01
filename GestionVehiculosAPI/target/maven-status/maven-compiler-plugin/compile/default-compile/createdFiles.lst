@@ -1,0 +1,4 @@
+com\mycompany\gestionvehiculosapi\Vehiculo.class
+com\mycompany\gestionvehiculosapi\VehiculoController.class
+com\mycompany\gestionvehiculosapi\VehiculoRepository.class
+com\mycompany\gestionvehiculosapi\Application.class
